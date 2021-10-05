@@ -257,6 +257,10 @@ btn.addEventListener("click", handleClick);
 
 ## 결과
 
+![스크린샷 2021-10-05 오후 5 13 07](https://user-images.githubusercontent.com/74812188/135986374-15ad3f5f-7029-4c58-aa51-3e9e02835ced.png)
+
+![스크린샷 2021-10-05 오후 5 16 15](https://user-images.githubusercontent.com/74812188/135986397-1970ca30-0a45-4db4-8895-bc0440598bbe.png)
+
 [localhost:8000](http://localhost:8000) 으로 접속하면 다음과 같은 웹을 확인할 수 있다.
 
 index.html, index.css, index.js 모두 정상적으로 적용된다.
